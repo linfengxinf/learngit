@@ -1,7 +1,7 @@
 package git;
 
 import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 import java.util.StringTokenizer;
 public class ParkingSystem implements IParking{
 	int big,medium,small;
